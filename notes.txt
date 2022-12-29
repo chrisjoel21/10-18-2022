@@ -1,0 +1,21 @@
+/* 
+//Sorting
+2)D,LL //ADT of DLL
+3)stack POSTFIX TO INFIX / INFIX TO POST FIX / EVALUATE POSTFIX
+4)Queue //ALSO CIRCULAR
+5)Heap // 
+
+KNOW TEMPLATS WITH ALL
+
+
+
+extras
+// extra_10_3_1
+use queue
+job time rem
+j1 15
+j2 30 
+j3 6
+j4 22 
+
+*/
